@@ -279,7 +279,6 @@ section.features .feature-item i {
 
 section.cta {
   position: relative;
-  padding: 250px 0;
   background-image: url("../img/bg-cta.jpg");
   background-position: center;
   background-size: cover;
@@ -365,10 +364,9 @@ section.contact ul.list-social li.social-google-plus a:hover {
 }
 
 footer {
-  padding: 25px 0;
   text-align: center;
   color: rgba(255, 255, 255, 0.3);
-  background-color: #222222;
+  background-color: #ee4848;
 }
 
 footer p {
